@@ -16,13 +16,13 @@
   --nord-light2: #e5e9f0;
   --nord-light3: #eceff4;
   --nord-green-blue: #c67cd9;
-  --nord-turquoise: #88c0d0;
+  --nord-turquoise: #c67cd9;
   --nord-cyan: #81a1c1;
   --nord-blue: #5e81ac;
   --nord-red: #bf616a;
   --nord-orange: #d08770;
   --nord-yellow: #ebcb8b;
-  --nord-green: #a3be8c;
+  --nord-green: #df94f2;
   --nord-pink: #b48ead;
 
   --nord-light-1: #cdd3e0;
@@ -38,21 +38,21 @@
 
   --button-primary: var(--nord-primary);
   --button-primary-text: var(--nord-dark1);
-  --button-primary-hover: #7da8a8;
+  --button-primary-hover: #c5a0eb;
   --button-primary-active: #709494;
-  --button-primary-active-outlined: rgba(143, 188, 187, 0.1);
-  --button-primary-disabled: #749191;
-  --button-primary-ghost: rgba(143, 188, 187, 0.1);
+  --button-primary-active-outlined: rgba(187, 143, 167, 0.1);
+  --button-primary-disabled: #8a7491;
+  --button-primary-ghost: rgba(154, 143, 188, 0.1);
   --button-primary-ghost-text: var(--nord-primary);
-  --button-primary-ghost-hover: rgba(125, 168, 168, 0.1);
-  --button-primary-ghost-active: rgba(112, 148, 148, 0.1);
+  --button-primary-ghost-hover: rgba(168, 125, 151, 0.1);
+  --button-primary-ghost-active: rgba(126, 112, 148, 0.1);
   --button-green: var(--nord-green);
   --button-green-text: var(--nord-dark1);
   --button-green-hover: #93ac7e;
-  --button-green-active: #82996f;
-  --button-green-ghost: rgba(163, 190, 140, 0.1);
+  --button-green-active: #7a6f99;
+  --button-green-ghost: rgba(190, 140, 169, 0.1);
   --button-green-ghost-text: var(--nord-green);
-  --button-green-ghost-hover: rgba(147, 172, 126, 0.1);
+  --button-green-ghost-hover: rgba(126, 127, 172, 0.1);
   --button-green-ghost-active: rgba(130, 153, 111, 0.1);
   --button-grey: var(--nord-dark4);
   --button-grey-text: var(--nord-light1);
